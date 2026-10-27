@@ -1,7 +1,6 @@
 ---
 layout: single_section
 title: "Announcements"
-tags: Announcements
 permalink: /announcements/
 redirect_from:
     - /announcements/faq/

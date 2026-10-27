@@ -32,7 +32,6 @@ defaults:
     values:
       pinned: false
       layout: "announcement"
-      tags: Announcements
   - scope:
       type: "faq"
     values:
